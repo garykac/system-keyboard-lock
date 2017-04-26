@@ -1,5 +1,7 @@
 # System Keyboard Lock
 
+**NOTE: This specification (renamed to simply "Keyboard Lock") has been MOVED to: https://github.com/w3c/keyboard-lock**
+
 Preliminary W3C spec draft for System Keyboard Lock.
 
 System Keyboard Lock is an API that allows websites to capture and use
